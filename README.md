@@ -6,3 +6,6 @@ tambien de realizo  la vinculacion del proyecto a git.
 
 #Clase 154.- que es el Routing
 En esta clase realiza una introducción a lo que es el routing en react, sus caracteristicas, proposito y funcionamiento en comparación con otros frameworks.
+
+#Clase 155.- Creando el router y definiendo las primeras rutas
+- En esta clase se realiza la configuración del paquete react-router dom y se configuran los parametros basicos para routing.
