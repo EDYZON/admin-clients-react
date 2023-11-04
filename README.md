@@ -24,3 +24,6 @@ En esta clase se hizo uso del hook useLocation para detectar el link activo, se 
 
 #Clase 160.- Creando un Loader
 En esta clase se creo un loader, de forma que cuando se cargue cada sección este loader sea ejecutado, esta clase contiene un 50% de la implementación del loader.
+
+#Clase 161.- Obtener los datos del loader con useLoaderData
+En esta clase se utilizo useLoaderData para recuperar datos despues de que una pagina sea cargado.
