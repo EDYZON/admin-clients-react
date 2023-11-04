@@ -12,3 +12,6 @@ En esta clase realiza una introducción a lo que es el routing en react, sus car
 
 #Clase 156.- Creando Páginas y Componentes y que es outlet
 En esta clase se creo el layout del sitio, ademas se crearon los componentes Index y NuevoCliente, haciendo uso de la implementación de Outlets.
+
+#Clase 157.- Creando el layout principal.
+En esta clase se agregaron modificaciones en el componente layout, se dividio en un panel lateral derecho e izquierdo, se modifico el index.html y se quito el css por defecto.
