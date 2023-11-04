@@ -18,3 +18,6 @@ En esta clase se agregaron modificaciones en el componente layout, se dividio en
 
 #Clase 158.-Navegar entre Componentes con Link
 En esta clase se implemento un nav menu sobre el componente layout, se hizo uso del objeto link para instanciar los enlaces href.
+
+#Clase 159.- Resaltar la Página actual
+En esta clase se hizo uso del hook useLocation para detectar el link activo, se aplicaron estilos en función de si el link esta activo o no.
