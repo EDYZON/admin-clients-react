@@ -15,3 +15,6 @@ En esta clase se creo el layout del sitio, ademas se crearon los componentes Ind
 
 #Clase 157.- Creando el layout principal.
 En esta clase se agregaron modificaciones en el componente layout, se dividio en un panel lateral derecho e izquierdo, se modifico el index.html y se quito el css por defecto.
+
+#Clase 158.-Navegar entre Componentes con Link
+En esta clase se implemento un nav menu sobre el componente layout, se hizo uso del objeto link para instanciar los enlaces href.
