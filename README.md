@@ -21,3 +21,6 @@ En esta clase se implemento un nav menu sobre el componente layout, se hizo uso 
 
 #Clase 159.- Resaltar la Página actual
 En esta clase se hizo uso del hook useLocation para detectar el link activo, se aplicaron estilos en función de si el link esta activo o no.
+
+#Clase 160.- Creando un Loader
+En esta clase se creo un loader, de forma que cuando se cargue cada sección este loader sea ejecutado, esta clase contiene un 50% de la implementación del loader.
