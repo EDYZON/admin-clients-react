@@ -1,4 +1,4 @@
-#Proyecto crm clientes
+#Proyecto Administrador de clientes - React Router DOM, Tailwind y JSON Server.
 
 #Clase 153.- Creando el proyecto e instalando dependencias
 En esta clase se realizo la creación del proyeco en vite, se realizo la instalación de tailwind css y la configuración del archivo config de tailwind,
@@ -9,3 +9,6 @@ En esta clase realiza una introducción a lo que es el routing en react, sus car
 
 #Clase 155.- Creando el router y definiendo las primeras rutas
 - En esta clase se realiza la configuración del paquete react-router dom y se configuran los parametros basicos para routing.
+
+#Clase 156.- Creando Páginas y Componentes y que es outlet
+En esta clase se creo el layout del sitio, ademas se crearon los componentes Index y NuevoCliente, haciendo uso de la implementación de Outlets.
