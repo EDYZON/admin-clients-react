@@ -42,3 +42,6 @@ En esta clase se agrego el formulario para dar de alta un nuevo cliente.
 
 #Clase 166.- Creando un action para el formulario
 En esta clase se agrego un action que ejecuta una funcion exportable y se hizo uso del componente Form de React-router-dom.
+
+#Clase 167.- Leer información ingresada a un formulario con formData
+En esta clase se hizo uso del objeto Formdata para almacenar los valores del formulario nuevo cliente para posteriormente mostrarlo en consola.
