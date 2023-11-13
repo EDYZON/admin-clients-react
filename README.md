@@ -33,3 +33,6 @@ En esta clase se realizo la iteración de clientes sobre el componente index,  a
 
 #Clase 163.- Mostrando el resto de la información
 En esta clase se iteraron todos los datos del cliente como nombre, empresa, email, telefono, id y se pintaron sobre la pantalla, se agregaron los estilos para estilizarlo.
+
+#Clase 164.- Primeros pasos creando el formulario de Clientes.
+En esta clase se agrego el boton regresar mediante la implementación del hook navigate de react, se aplico estilo el boton y se preparo el espacio para agregar un futuro formulario.
