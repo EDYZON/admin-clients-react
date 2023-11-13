@@ -30,3 +30,6 @@ En esta clase se utilizo useLoaderData para recuperar datos despues de que una p
 
 #Clase 162.- Iterando la información sobre los clientes
 En esta clase se realizo la iteración de clientes sobre el componente index,  adicional a ello se creo un custom hook cliente para separarlo internamente.
+
+#Clase 163.- Mostrando el resto de la información
+En esta clase se iteraron todos los datos del cliente como nombre, empresa, email, telefono, id y se pintaron sobre la pantalla, se agregaron los estilos para estilizarlo.
