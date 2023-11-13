@@ -39,3 +39,6 @@ En esta clase se agrego el boton regresar mediante la implementación del hook n
 
 #Clase 165.- Agregando el formulario 
 En esta clase se agrego el formulario para dar de alta un nuevo cliente.
+
+#Clase 166.- Creando un action para el formulario
+En esta clase se agrego un action que ejecuta una funcion exportable y se hizo uso del componente Form de React-router-dom.
