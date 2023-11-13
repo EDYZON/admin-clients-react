@@ -27,3 +27,6 @@ En esta clase se creo un loader, de forma que cuando se cargue cada sección est
 
 #Clase 161.- Obtener los datos del loader con useLoaderData
 En esta clase se utilizo useLoaderData para recuperar datos despues de que una pagina sea cargado.
+
+#Clase 162.- Iterando la información sobre los clientes
+En esta clase se realizo la iteración de clientes sobre el componente index,  adicional a ello se creo un custom hook cliente para separarlo internamente.
