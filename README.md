@@ -45,3 +45,6 @@ En esta clase se agrego un action que ejecuta una funcion exportable y se hizo u
 
 #Clase 167.- Leer información ingresada a un formulario con formData
 En esta clase se hizo uso del objeto Formdata para almacenar los valores del formulario nuevo cliente para posteriormente mostrarlo en consola.
+
+#Clase 168.- Añadir validación al Formulario
+En esta clase se creo el componente error, y se inicio la validación para el formulario nuevoCliente.
