@@ -1,18 +1,26 @@
 {
-    "clientes": [
-        {
-            "id": 1,
-            "nombre": "Edizon Zacarías",
-            "telefono": "0000000",
-            "email": "ezacarias@izzi.mx",
-            "empresa": "izzy"
-        },
-        {
-            "id": 2,
-            "nombre": "Xochitl Hernandez alcantar",
-            "telefono": "7772721521",
-            "email": "xorehal@gmail.com",
-            "empresa": "izzy"
-        }
-    ]
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Edizon Zacarías",
+      "telefono": "0000000",
+      "email": "ezacarias@izzi.mx",
+      "empresa": "izzy"
+    },
+    {
+      "id": 2,
+      "nombre": "Xochitl Hernandez alcantar",
+      "telefono": "7772721521",
+      "email": "xorehal@gmail.com",
+      "empresa": "izzy"
+    },
+    {
+      "nombre": "Juan desde react",
+      "empresa": "codigo con juan",
+      "email": "juan@correo.com",
+      "telefono": "7772721521",
+      "notas": "holis",
+      "id": 3
+    }
+  ]
 }

@@ -66,3 +66,6 @@ json-server --watch db.json
 
 #Clase 172.- Crear una pantalla de error
 En esta clase se implemento una pagina de error personalizado, cuando se origino un error de tipo boundary, el manejo de error se implemento en  la sección de configuración de routes de la app.
+
+#Clase 173.- Añadir nuevos clientes a nuestro formulario y JSON Server
+En esta clase se utilizo JSON server para solicitar información, tambien para agregar nuevos registros, se realizo la modificacion del componente cliente para mostrar todos los registros y despues de insertar hiciera un redirect hacia la pagina principal.
