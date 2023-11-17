@@ -51,3 +51,9 @@ En esta clase se creo el componente error, y se inicio la validación para el fo
 
 #Clase 169.- Diferencias de useLoaderData y useActionData y más validaciones.
 En esta clase se analizaron cuando se utiliza los hooks useloaderdata y useactiondata, ademas de ello se implemento la validación del campo email mediante el uso de una expresion regular.
+
+#Clase 170.- Introducción a JSON Server.
+En esta clase se analizo el funcionamiento y finalidad de una API Rest, los tipos de operaciones posibles y la instación de un servidor json que tendra como proposito servir de fuente de datos para este proyecto.
+
+-npm install -g json-server
+-json-server --watch db.json
