@@ -57,3 +57,9 @@ En esta clase se analizo el funcionamiento y finalidad de una API Rest, los tipo
 
 -npm install -g json-server
 -json-server --watch db.json
+
+#Clase 171.- Conectando JSON Server a nuestro proyecto
+En esta clase se configuro el servidor json, se obtuvo una url para obtener los recursos, ademas se hizo uso de la configuración, importación y uso de variables de entornos.
+
+Para inicializar el servidor json hay que escribir dentro del proyecto.
+json-server --watch db.json

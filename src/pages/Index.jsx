@@ -1,8 +1,9 @@
 import {useLoaderData} from 'react-router-dom'
+import { obtenerClientes } from '../data/Clientes'
 import Cliente from '../components/Cliente';
 
 export function loader(){
-  const clientes = [
+  /*const clientes = [
     {
       id:1,
       nombre:"Juan",
@@ -18,6 +19,9 @@ export function loader(){
       empresa:"izzy"
     }
   ];
+  return clientes;*/
+
+const clientes = obtenerClientes()
   return clientes;
 }
 
