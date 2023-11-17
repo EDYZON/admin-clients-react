@@ -48,3 +48,6 @@ En esta clase se hizo uso del objeto Formdata para almacenar los valores del for
 
 #Clase 168.- Añadir validación al Formulario
 En esta clase se creo el componente error, y se inicio la validación para el formulario nuevoCliente.
+
+#Clase 169.- Diferencias de useLoaderData y useActionData y más validaciones.
+En esta clase se analizaron cuando se utiliza los hooks useloaderdata y useactiondata, ademas de ello se implemento la validación del campo email mediante el uso de una expresion regular.

@@ -3,13 +3,17 @@ import Formulario from '../components/Formulario'
 import Error from '../components/Error';
 
 export async function action({request}){
-  const formData = await request.formData();
+ const formData = await request.formData();
  const datos = Object.fromEntries(formData);
-  //console.log(formData.get('nombre'))
-  //validacion
+ const email = formData.get('email')
+
   const errores = [];
   if(Object.values(datos).includes('')){
     errores.push("Todos los campos son obligatorios")
+  }
+  let regex = new RegExp("([!#-'*+/-9=?A-Z^-~-]+(\.[!#-'*+/-9=?A-Z^-~-]+)*|\"\(\[\]!#-[^-~ \t]|(\\[\t -~]))+\")@([!#-'*+/-9=?A-Z^-~-]+(\.[!#-'*+/-9=?A-Z^-~-]+)*|\[[\t -Z^-~]*])");
+  if(!regex.test(email)){
+    errores.push('el email no es valido')
   }
   //retornar datos y errores
   if(Object.keys(errores).length){
@@ -43,6 +47,7 @@ const NuevoCliente = () => {
         )}
         <Form
         method='post'
+        noValidate
         >
           <Formulario />
           <input
