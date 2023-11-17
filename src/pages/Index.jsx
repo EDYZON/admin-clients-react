@@ -3,31 +3,13 @@ import { obtenerClientes } from '../data/Clientes'
 import Cliente from '../components/Cliente';
 
 export function loader(){
-  /*const clientes = [
-    {
-      id:1,
-      nombre:"Juan",
-      telefono:"0000000",
-      email:"juan@juan.com",
-      empresa:"izzy"
-    },
-    {
-      id:2,
-      nombre:"Jose",
-      telefono:"7772721521",
-      email:"jose@izzi.mx",
-      empresa:"izzy"
-    }
-  ];
-  return clientes;*/
-
 const clientes = obtenerClientes()
   return clientes;
 }
 
 const Index = () => {
   const clientes = useLoaderData();
-  console.log(clientes)
+ 
   return (
     <>
       <h1 className='font-black text-4xl text-blue-900'>Clientes</h1>

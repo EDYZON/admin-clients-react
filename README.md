@@ -63,3 +63,6 @@ En esta clase se configuro el servidor json, se obtuvo una url para obtener los 
 
 Para inicializar el servidor json hay que escribir dentro del proyecto.
 json-server --watch db.json
+
+#Clase 172.- Crear una pantalla de error
+En esta clase se implemento una pagina de error personalizado, cuando se origino un error de tipo boundary, el manejo de error se implemento en  la sección de configuración de routes de la app.
