@@ -78,3 +78,6 @@ En esta clase se profundiza desarrollando mas la parte de tratamiento de erores,
 
 #Clase 176.- Añadiendo el formulario para editar y autocompletar el formulario
 En esta clase se realiza la configuración del formulario de edición y se muestra los datos despues de editar
+
+#Clase 177.- Creando la acción para editar el cliente.
+En esta clase se reliza modificaciones en funcionamiento del loader y action
