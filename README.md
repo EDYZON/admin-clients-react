@@ -72,3 +72,6 @@ En esta clase se utilizo JSON server para solicitar información, tambien para a
 
 #Clase 174.- Primeros pasos para editar cliente y useParams para recuperar el ID.
 En esta clase se creo el nuevo componente EditarCliente para permitir editar un cliente espefico, se utilizo routes para pasar parametros.
+
+#Clase 175.- Verificando que el cliente exista  y mostrar Error.
+En esta clase se profundiza desarrollando mas la parte de tratamiento de erores, se verifica que el cliente exista.
