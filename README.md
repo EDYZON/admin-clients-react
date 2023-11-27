@@ -81,3 +81,6 @@ En esta clase se realiza la configuración del formulario de edición y se muest
 
 #Clase 177.- Creando la acción para editar el cliente.
 En esta clase se reliza modificaciones en funcionamiento del loader y action
+
+#Clase 178.- Eliminar un cliente
+Esta es la ultima clase de este proyecto, se agrega la funcionalidad de eliminar cliente
