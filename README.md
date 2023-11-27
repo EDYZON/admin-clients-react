@@ -75,3 +75,6 @@ En esta clase se creo el nuevo componente EditarCliente para permitir editar un 
 
 #Clase 175.- Verificando que el cliente exista  y mostrar Error.
 En esta clase se profundiza desarrollando mas la parte de tratamiento de erores, se verifica que el cliente exista.
+
+#Clase 176.- Añadiendo el formulario para editar y autocompletar el formulario
+En esta clase se realiza la configuración del formulario de edición y se muestra los datos despues de editar
