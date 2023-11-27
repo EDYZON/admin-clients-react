@@ -69,3 +69,6 @@ En esta clase se implemento una pagina de error personalizado, cuando se origino
 
 #Clase 173.- Añadir nuevos clientes a nuestro formulario y JSON Server
 En esta clase se utilizo JSON server para solicitar información, tambien para agregar nuevos registros, se realizo la modificacion del componente cliente para mostrar todos los registros y despues de insertar hiciera un redirect hacia la pagina principal.
+
+#Clase 174.- Primeros pasos para editar cliente y useParams para recuperar el ID.
+En esta clase se creo el nuevo componente EditarCliente para permitir editar un cliente espefico, se utilizo routes para pasar parametros.
